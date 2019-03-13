@@ -1,0 +1,216 @@
+* {
+  color: "333";
+  font-family: ヒラギノ角ゴ ProN W3;
+}
+
+body{
+  margin: 0;
+}
+
+h1{
+  margin: 0;
+}
+
+h1 hr {
+ margin: 0;
+ display: block;
+ width: 100%;
+}
+
+.hahaha a {
+  /* display: block; */
+  color: #fff;
+  background-color: #419eb1;
+  width: 100px; height: 40px;
+  font-size: 13px;
+  font-weight: lighter;
+  float: right;
+  text-align: center;
+  text-decoration: none;
+  border: 2px solid #419eb1;
+  border-top-left-radius : 0;
+	border-top-right-radius: 0;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border: 0;
+  margin: 0 50px 0 0;
+}
+.hahaha a:hover{
+  text-decoration: underline;
+}
+
+
+.hasikan ul {
+  display: block;
+}
+
+.hasikan ul li {
+  float: right;
+  /* padding: 0; */
+	/* display: block; */
+	/* width: 56px; */
+  /* height: 35px; */
+  list-style: none;
+	/* text-align: center; */
+	text-decoration: none;
+	color: #000;
+}
+
+.hasikan ul li a {
+  font-size: 13px;
+  display:inline-block;
+  /* font-size: 20px */
+  padding: 0 50px 15px 0;
+  color: #000;
+  /* float: right; */
+  text-decoration: none;
+}
+
+.hasikan ul li a:hover {
+  color: #419eb1;
+}
+
+.hasikan p {
+  font-weight: lighter;
+  font-size: 5px;
+  margin: 0;
+  /* padding: 5px 10px; */
+}
+/* ul li .hasikan :hover {
+	background-color: #808080;
+	color: #fff;
+} */
+
+hr{
+  width: 100%;
+}
+
+h2{
+  padding-left: 90px;
+}
+
+h2 a{
+  text-decoration: none;
+  font-size: 6px;
+  color: #777;
+  font-weight: lighter;
+}
+
+h2 strong{
+  font-size: 6px;
+  color: #777;
+  font-weight: lighter;
+  margin: 0;
+}
+
+
+/* ここからh3 */
+.aaa{
+  width: 850px;
+  margin: auto;
+}
+
+.namae {
+  padding: 0 0 0 90px;
+  font-weight: bold;
+  font-size: 13px;
+  border-bottom: 5px;
+  padding-right: 8px;
+  width: 60%;
+  /* float: left; */
+}
+
+
+
+/* .sen1 {
+  float: left;
+  margin-bottom: 11.5px;
+  border-bottom: 5px;
+  padding-right: 8px;
+  width: 60%; */
+/* } */
+
+
+.contena {
+  display: flex;
+  flex-direction: row;
+}
+
+.picts {
+  /* float: left; */
+  padding: 0 15px;
+}
+
+.kannner {
+  display: block;
+  /* width: 50%; */
+  /* float: left; */
+}
+
+.nigyoume ul {
+  /* margin: 0; */
+  padding: 0.6em 0.8em;
+  /* list-style: none; */
+}
+
+.nigyoume ul li {
+  list-style: none;
+  /* float: right; */
+}
+.waa a {
+  float: right;
+  text-decoration: none;
+  color: #000;
+  display: inline-block;
+  background-color: #fff;
+  font-weight: lighter;
+  border: solid 2px #ccc;
+  border-radius: 5px;
+  padding: 7px 10px;
+  /* text-decoration: none;
+  color: #696969;
+  font-size: 18px;
+  font-weight: lighter; */
+}
+
+.wee {
+  font-weight: lighter;
+  font-size: 26px;
+  /* padding: 0; */
+}
+
+/* .sen2 {
+  width: 30%;
+  color: #e6dfe6;
+  margin: 0;
+  display: block;
+  float: right;
+} */
+
+.sangyoume {
+  font-weight: lighter;
+  /* float: right; */
+}
+
+h3 p {
+  /* display: block; */
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+
+.irai a {
+  float: right;
+  text-decoration: none;
+  color: #000;
+  display: inline-block;
+  background-color: #fff;
+  font-weight: lighter;
+  border: solid 2px #ccc;
+  border-radius: 5px;
+  padding: 7px 10px;
+}
+
+.name2{
+  display: block;
+}
