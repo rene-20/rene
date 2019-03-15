@@ -114,7 +114,7 @@ h2 strong{
   padding: 0 0 0 90px;
   font-weight: bold;
   font-size: 13px;
-  border-bottom: 5px;
+  border-bottom: solid 3px #419eb1;
   padding-right: 8px;
   width: 60%;
   /* float: left; */
@@ -210,7 +210,42 @@ h3 p {
   border-radius: 5px;
   padding: 7px 10px;
 }
+h4 hr {
+  margin: 0;
+}
 
-.name2{
+h4 ul{
+  list-style: none;
+  font-size: 14px;
+
+}
+
+h4 ul li {
+  line-height: 20px;
+  font-weight: lighter;
+}
+
+.par {
+  /* display: block; */
+}
+
+h4 ul li > a {
   display: block;
+  text-decoration: none;
+  color: #337ab7;
+  /* display: table; */
+  margin-left: 120px;
+  /* padding-bottom: 5px; */
+}
+
+.itiran {
+  float: right;
+  text-decoration: none;
+  color: #000;
+  display: inline-block;
+  background-color: #fff;
+  font-weight: lighter;
+  border: solid 2px #ccc;
+  border-radius: 5px;
+  padding: 7px 10px;
 }
